@@ -1,0 +1,51 @@
+const resList=[{
+    type:"restaurant",
+    data:{
+        name:"KFC",
+        cuisine:"3.1",
+        img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kl6bxuddumlkordb8rt9"
+    }
+},
+{
+    type:"restaurant",
+    data:{
+        name:"KFCnew",
+        cuisine:"4",
+        img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kl6bxuddumlkordb8rt9"
+    }
+},
+{
+    type:"restaurant",
+    data:{
+        name:"MACD",
+        cuisine:"4",
+        img:"https://images.unsplash.com/photo-1516824467205-afa656d31a79?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZvb2QlMjBsb2dvfGVufDB8fDB8fHww"
+    }
+},
+{
+    type:"restaurant",
+    data:{
+        name:"Burgerking",
+        cuisine:"3",
+        img:"https://images.unsplash.com/photo-1516824467205-afa656d31a79?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZvb2QlMjBsb2dvfGVufDB8fDB8fHww"
+    }
+},
+{
+    type:"restaurant",
+    data:{
+        name:"Cafe",
+        cuisine:"3",
+        img:"https://images.unsplash.com/photo-1516824467205-afa656d31a79?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZvb2QlMjBsb2dvfGVufDB8fDB8fHww"
+    }
+},
+{
+    type:"restaurant",
+    data:{
+        name:"MACccD",
+        cuisine:"2",
+        img:"https://images.unsplash.com/photo-1516824467205-afa656d31a79?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZvb2QlMjBsb2dvfGVufDB8fDB8fHww"
+    }
+}
+];
+
+export default resList;

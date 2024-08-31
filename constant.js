@@ -1,0 +1,2 @@
+export const LOGO="https://images.unsplash.com/photo-1541980294979-572cb9d973fd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGZvb2QlMjBsb2dvfGVufDB8fDB8fHww"
+export const CDN_URL="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/"
